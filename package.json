@@ -1,0 +1,22 @@
+{
+  "name": "kltest",
+  "version": "1.0.0",
+  "description": "kltest",
+  "main": "index.js",
+  "scripts": {
+    "test": "kltest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senguttuvan-paramathma/helloworld.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "senguttuvan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senguttuvan-paramathma/helloworld/issues"
+  },
+  "homepage": "https://github.com/senguttuvan-paramathma/helloworld#readme"
+}
